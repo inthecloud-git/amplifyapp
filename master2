@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        
+        <!-- Facebook sharing information tags -->
+        <meta property="og:title" content="%%subject%%">
+        
+        <title>%%subject%%</title>
+		
+	</head>
+    <body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="-webkit-text-size-adjust: none;margin: 0;padding: 0;background-color: #FAFAFA;width: 100%;">
+<style type="text/css">#outlook a {
+              padding: 0;
+          }
+          .body{
+              width: 100% !important;
+              -webkit-text-size-adjust: 100%;
+              -ms-text-size-adjust: 100%;
+              margin: 0;
+              padding: 0;
+          }
+          .ExternalClass {
+              width:100%;
+          }
+          .ExternalClass,
+          .ExternalClass p,
+          .ExternalClass span,
+          .ExternalClass font,
+          .ExternalClass td,
+          .ExternalClass div {
+              line-height: 100%;
+          }
+          img {
+              outline: none;
+              text-decoration: none;
+              -ms-interpolation-mode: bicubic;
+          }
+          a img {
+              border: none;
+          }
+          p {
+              margin: 1em 0;
+          }
+          table td {
+              border-collapse: collapse;
+          }
+          /* hide unsubscribe from forwards*/
+          blockquote .original-only, .WordSection1 .original-only {
+            display: none !important;
+          }
+</style>
+<center>
+<table border="0" cellpadding="0" cellspacing="0" height="100%" id="backgroundTable" style="margin: 0;padding: 0;background-color: #FAFAFA;height: 100%;width: 100%;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" style="border-collapse: collapse;" valign="top"><!-- // Begin Template Preheader \ -->
+			<table border="0" cellpadding="10" cellspacing="0" id="templatePreheader" style="background-color: #FAFAFA;" width="600">
+				<tbody>
+					<tr>
+						<td class="preheaderContent" style="border-collapse: collapse;" valign="top"><!-- // Begin Module: Standard Preheader  -->
+						<table border="0" cellpadding="10" cellspacing="0" width="100%">
+							<tbody>
+								<tr>
+									<td style="border-collapse: collapse;" valign="top">
+									<div pardot-region="std_preheader_content" style="color: #505050;font-family: Arial;font-size: 10px;line-height: 10px;text-align: left;">&nbsp;</div>
+									</td>
+									<td style="border-collapse: collapse;" valign="top" width="190">
+									<div pardot-region="std_preheader_links" style="color: #505050;font-family: Arial;font-size: 10px;line-height: 10px;text-align: left;">Is this email not displaying correctly?<br>
+									<a href="%%view_online%%" style="color: #336699;font-weight: normal;text-decoration: underline;" target="_blank">View it in your browser</a>.</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // End Module: Standard Preheader  --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- // End Template Preheader \ -->
+
+			<table border="0" cellpadding="0" cellspacing="0" id="templateContainer" style="border: 1px solid #DDDDDD;background-color: #FFFFFF;" width="600">
+				<tbody>
+					<tr>
+						<td align="center" style="border-collapse: collapse;" valign="top"><!-- // Begin Template Header \ -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templateHeader" style="background-color: #FFFFFF;border-bottom: 0;" width="600">
+							<tbody>
+								<tr>
+									<td class="headerContent" pardot-region="header_image" style="border-collapse: collapse;color: #202020;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 34px;padding: 0;text-align: center;vertical-align: middle;"><img alt="" border="0" src="https://www2.redwood.com/l/72652/2020-04-17/9pqvrs/72652/171895/Coffee_email_banner_vr2.jpg" style="border-width: 0px; border-style: solid;"><!-- // End Module: Standard Header Image \ --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // End Template Header \ --></td>
+					</tr>
+					<tr>
+						<td align="center" style="border-collapse: collapse;" valign="top"><!-- // Begin Template Body \ -->
+						<table border="0" cellpadding="0" cellspacing="0" id="templateBody" width="600">
+							<tbody>
+								<tr>
+									<td class="bodyContent" style="border-collapse: collapse;background-color: #FFFFFF;" valign="top"><!-- // Begin Module: Standard Content \ -->
+									<table border="0" cellpadding="20" cellspacing="0" width="100%">
+										<tbody>
+											<tr>
+												<td style="border-collapse: collapse;" valign="top">
+												<div pardot-region="std_content00" style="color: #505050;font-family: Arial;font-size: 14px;line-height: 21px;text-align: left;">
+												<h1 class="h1" style="color: #202020;display: block;font-family: Arial;font-size: 34px;font-weight: bold;line-height: 34px;margin-top: 0;margin-right: 0;margin-bottom: 10px;margin-left: 0;text-align: left;">Coffee Break with Redwood</h1>
+
+												<p paraeid="{a977e6b1-a954-4acc-ab85-3bc2cc0bdfc9}{43}" paraid="1391947803">Hello %%first_name%%,&nbsp;</p>
+
+												<p paraeid="{a977e6b1-a954-4acc-ab85-3bc2cc0bdfc9}{51}" paraid="1760889584">This is a friendly reminder of our invitation for you to join episode 2 of our virtual&nbsp;Coffee Break with Redwood&nbsp;event. It will be tomorrow, Friday, May 8 at 1:00 pm CT.&nbsp;&nbsp;</p>
+
+												<p paraeid="{a977e6b1-a954-4acc-ab85-3bc2cc0bdfc9}{65}" paraid="1363077766">During this 15-minute&nbsp;session,&nbsp;<a href="https://www.linkedin.com/in/john-beutler-6b96b5/" rel="noreferrer noopener" target="_blank">John Beutler</a>, Solution Engineer with Redwood Software, will discuss event-based triggering.&nbsp;All customers are welcome to attend and bring their questions.&nbsp;</p>
+
+												<p paraeid="{a977e6b1-a954-4acc-ab85-3bc2cc0bdfc9}{96}" paraid="524440996">Take a 15-minute break to enjoy a nice cup of coffee and learn something new from Redwood and your peers.&nbsp;<br>
+												<br>
+												<a href="https://www.redwood.com/events/coffee-break-with-redwood-ep-2">Register now</a>!&nbsp;&nbsp;</p>
+
+												<p paraeid="{a977e6b1-a954-4acc-ab85-3bc2cc0bdfc9}{113}" paraid="429717297">Best regards,&nbsp;</p>
+
+												<p paraeid="{a977e6b1-a954-4acc-ab85-3bc2cc0bdfc9}{119}" paraid="902029115">Team Redwood&nbsp;</p>
+
+												<p paraeid="{a977e6b1-a954-4acc-ab85-3bc2cc0bdfc9}{125}" paraid="809805169">P.S. Can’t attend? Register anyway and we’ll ensure we send the link to the recording for you to enjoy during your next coffee break.&nbsp;</p>
+												</div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- // End Module: Standard Content \ --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // End Template Body \ --></td>
+					</tr>
+					<tr>
+						<td align="center" style="border-collapse: collapse;" valign="top"><!-- // Begin Template Footer \ -->
+						<table border="0" cellpadding="10" cellspacing="0" id="templateFooter" style="background-color: #FFFFFF;border-top: 0;" width="600">
+							<tbody>
+								<tr>
+									<td class="footerContent" style="border-collapse: collapse;" valign="top"><!-- // Begin Module: Standard Footer \ -->
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tbody>
+											<tr>
+												<td style="border-collapse: collapse;" valign="top" width="350">
+												<div pardot-region="std_footer" style="color: #707070;font-family: Arial;font-size: 12px;line-height: 15px;text-align: left;">www.Redwood.com<br>
+												<br>
+												<a href="https://www.linkedin.com/company/redwood-software"><img alt="Linkedin" border="0" src="https://cdn.redwood.com/files/2019-signature/signature-2019-linkedin.png"></a>&nbsp;&nbsp; <a href="https://www.youtube.com/channel/UCO49op3IHyKNtkRx6L0w7Jw"><img alt="YouTube" border="0" src="https://cdn.redwood.com/files/2019-signature/signature-2019-youtube.png"></a>&nbsp;&nbsp; <a href="https://twitter.com/RedwoodSoftware"><img alt="Twitter" border="0" src="https://cdn.redwood.com/files/2019-signature/signature-2019-twitter.png"></a>&nbsp;&nbsp; <a href="https://www.facebook.com/redwoodsoftware/"><img alt="Facebook" border="0" src="https://cdn.redwood.com/files/2019-signature/signature-2019-facebook.png"></a><br>
+												<br>
+												<em>Copyright © Redwood Software 2020, All rights reserved.</em><br>
+												<br>
+												&nbsp;</div>
+												</td>
+												<td style="border-collapse: collapse;" valign="top" width="190">
+												<div pardot-region="std_footer_alt" style="color: #707070;font-family: Arial;font-size: 12px;line-height: 15px;text-align: left;">&nbsp;</div>
+												</td>
+											</tr>
+											<tr>
+												<td colspan="2" id="utility" style="border-collapse: collapse;background-color: #FFFFFF;border: 0;" valign="middle">
+												<div class="original-only" pardot-region="std_utility" style="color: #707070;font-family: Arial;font-size: 12px;line-height: 15px;text-align: center;"><a href="%%unsubscribe%%" style="color: #336699;font-weight: normal;text-decoration: underline;">unsubscribe from all emails</a> | <a href="%%email_preference_center%%" style="color: #336699;font-weight: normal;text-decoration: underline;">update subscription preferences</a></div>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- // End Module: Standard Footer \ --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- // End Template Footer \ --></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+<!--
+          This email was originally designed by the wonderful folks at MailChimp and remixed by Pardot.
+          It is licensed under CC BY-SA 3.0
+        -->
+</body>
+</html>
